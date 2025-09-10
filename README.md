@@ -1,6 +1,6 @@
 ## Overview
 
-This project involves analyzing survey results to gain insights into the adoption of AI in the development process. The analysis is performed using Python and various data science libraries. This repository contains the code and data for my analysis, and I've also written a blog post on Notion that summarizes the key findings: [link](https://www.notion.so/aleberbesi/Who-s-Using-AI-in-Software-Development-Insights-from-the-2025-Stack-Overflow-Survey-26a61752f2de80b5a842ed7c4859a45e?source=copy_link).
+This project involves analyzing survey results to gain insights into the adoption of AI in the development process. The analysis is performed using Python and various data science libraries. This repository contains the code and data for my analysis, and I've also written a blog post on Notion that summarizes the key findings: [link](https://aleberbesi.notion.site/Navigating-the-AI-Wave-Insights-from-the-Stack-Overflow-Developer-Survey-2025-26a61752f2de80b5a842ed7c4859a45e).
 
 ## Main Libraries Used
 
