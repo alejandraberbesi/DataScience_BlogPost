@@ -4,11 +4,10 @@ This project involves analyzing survey results to gain insights into the adoptio
 
 ## Main Libraries Used
 
-    *   `pandas` for data manipulation and analysis
-    *   `numpy` for numerical computations
-    *   `matplotlib` for creating static, animated, and interactive visualizations
-    *   `seaborn` for statistical data visualization
-    *   `scikit-learn` for model selection, hyperparameter tuning, and model evaluation 
+*  `pandas` for data manipulation and analysis
+*   `numpy` for numerical computations
+*   `matplotlib` and `seaborn` for visualizations
+*   `scikit-learn` for model selection, hyperparameter tuning, and model evaluation 
 
 ## Project Motivation
 
